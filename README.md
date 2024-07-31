@@ -1,4 +1,4 @@
-# Pedestrian-detection-
+
 # Pedestrian Detection Using Gradient-Based Algorithm
 
 ## Introduction
